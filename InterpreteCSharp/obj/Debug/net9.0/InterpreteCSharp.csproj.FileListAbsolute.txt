@@ -1,0 +1,15 @@
+C:\Users\migue\OneDrive\Desktop\Programacion\Interprete\InterpreteCSharp\InterpreteCSharp\bin\Debug\net9.0\InterpreteCSharp.exe
+C:\Users\migue\OneDrive\Desktop\Programacion\Interprete\InterpreteCSharp\InterpreteCSharp\bin\Debug\net9.0\InterpreteCSharp.deps.json
+C:\Users\migue\OneDrive\Desktop\Programacion\Interprete\InterpreteCSharp\InterpreteCSharp\bin\Debug\net9.0\InterpreteCSharp.runtimeconfig.json
+C:\Users\migue\OneDrive\Desktop\Programacion\Interprete\InterpreteCSharp\InterpreteCSharp\bin\Debug\net9.0\InterpreteCSharp.dll
+C:\Users\migue\OneDrive\Desktop\Programacion\Interprete\InterpreteCSharp\InterpreteCSharp\bin\Debug\net9.0\InterpreteCSharp.pdb
+C:\Users\migue\OneDrive\Desktop\Programacion\Interprete\InterpreteCSharp\InterpreteCSharp\obj\Debug\net9.0\InterpreteCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Desktop\Programacion\Interprete\InterpreteCSharp\InterpreteCSharp\obj\Debug\net9.0\InterpreteCSharp.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Desktop\Programacion\Interprete\InterpreteCSharp\InterpreteCSharp\obj\Debug\net9.0\InterpreteCSharp.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Desktop\Programacion\Interprete\InterpreteCSharp\InterpreteCSharp\obj\Debug\net9.0\InterpreteCSharp.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Desktop\Programacion\Interprete\InterpreteCSharp\InterpreteCSharp\obj\Debug\net9.0\InterpreteCSharp.sourcelink.json
+C:\Users\migue\OneDrive\Desktop\Programacion\Interprete\InterpreteCSharp\InterpreteCSharp\obj\Debug\net9.0\InterpreteCSharp.dll
+C:\Users\migue\OneDrive\Desktop\Programacion\Interprete\InterpreteCSharp\InterpreteCSharp\obj\Debug\net9.0\refint\InterpreteCSharp.dll
+C:\Users\migue\OneDrive\Desktop\Programacion\Interprete\InterpreteCSharp\InterpreteCSharp\obj\Debug\net9.0\InterpreteCSharp.pdb
+C:\Users\migue\OneDrive\Desktop\Programacion\Interprete\InterpreteCSharp\InterpreteCSharp\obj\Debug\net9.0\InterpreteCSharp.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Desktop\Programacion\Interprete\InterpreteCSharp\InterpreteCSharp\obj\Debug\net9.0\ref\InterpreteCSharp.dll
