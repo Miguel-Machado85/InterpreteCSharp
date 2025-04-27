@@ -30,7 +30,8 @@ namespace InterpreteCSharp{
         RBRACE,
         RPAREN,
         SEMICOLON,
-        WHILE
+        WHILE,
+        QUOTATION
     }
 
     public class Token{

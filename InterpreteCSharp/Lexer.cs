@@ -83,7 +83,10 @@ namespace InterpreteCSharp{
                 case ';':
                     token = new Token(TokenType.SEMICOLON, currentChar.ToString());
                     break;
-
+                case '"':
+                    token = new Token(TokenType.QUOTATION, currentChar.ToString());
+                    break;
+                    
                 case '\0':
                     token = new Token(TokenType.EOF, string.Empty);
                     break;
